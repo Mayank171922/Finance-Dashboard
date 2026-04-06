@@ -81,24 +81,7 @@ npm start
 
 ---
 
-## 🔑 Environment Variables
 
-Create a `.env` file (for frontend/backend if needed):
-
-```
-DB_URL=your_database_url
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
-JWT_SECRET=your_secret_key
-```
-
----
-
-## 📊 Screenshots
-
-(Add screenshots of your dashboard here)
-
----
 
 ## 🔮 Future Enhancements
 
@@ -119,20 +102,14 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
 **Mayank Shukla**
 
 * GitHub: https://github.com/Mayank171922
-* LinkedIn: (Add your LinkedIn profile)
+* LinkedIn: https://www.linkedin.com/in/mayank-shukla-98b320355/
 
 ---
 
