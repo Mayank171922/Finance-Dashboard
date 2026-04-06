@@ -131,7 +131,7 @@ This project is licensed under the **MIT License**.
 
 **Mayank Shukla**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Mayank171922
 * LinkedIn: (Add your LinkedIn profile)
 
 ---
